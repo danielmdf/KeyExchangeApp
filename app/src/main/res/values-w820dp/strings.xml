@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_ownkeys">Eigene Schluessel</string>
+    <string name="tf_willkommen">Willkommen in der KeyExchangeApp!</string>
+    <string name="button_scanownkey">add own Key</string>
+    <string name="button_addownpubkey">add own public key</string>
+    <string name="button_ownpubkeys">eigener public key</string>
+    <string name="buttonPublicKeys">all public keys</string>
+    <string name="buttonAddPubKey">add a public key</string>
+    <string name="button_addpubkey">add a public key</string>
+    <string name="tv_tvname">Name:</string>
+    <string name="et_name">Name eingeben</string>
+    <string name="btn_savepubkey">public key speichern</string>
+    <string name="tv_allkeys">All Keys</string>
+    <string name="tv_id">ID:</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_pkey">Public Key:</string>
+    <string name="btn_del">delete key</string>
+    <string name="btn_send">send public key</string>
+    <string name="et_challenge">enter challenge here</string>
+    <string name="btn_challenge">show challenge</string>
+    <string name="btn_response">challenge response</string>
+    <string name="tv_version">Version:</string>
+    <string name="tv_fingerprint">Fingerprint:</string>
+    <string name="btn_createchall">create challenge</string>
+    <string name="btn_hidechall">hide challenge</string>
+    <string name="btn_sign">sign</string>
+    <string name="tv_signature">signature:</string>
+</resources>
